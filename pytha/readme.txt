@@ -19,8 +19,7 @@ Features:
 Composing Music
 ===============
 
-There is currently no dedicated editor for Pytha. For the time being, the only
-choice is to write music directly in Assembly language.
+You can write music directly in Assembly language, but you can also use 1tracker (http://randomflux.info/1bit/viewtopic.php?id=24) which has implemented Pytha into its engines.
 
 
 Data Format
